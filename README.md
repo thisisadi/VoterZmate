@@ -18,9 +18,9 @@ In order to solve the problems encountered during traditional voting, as discuss
 
 - First of all clone this repository using following command:
 
-```git clone https://github.com/thisisadi/VoterZmate.git```
+```git clone https://github.com/thisisadi/project_VoterZmate.git```
 
-or download https://github.com/thisisadi/VoterZmate this repository.
+or download https://github.com/thisisadi/project_VoterZmate this repository.
 
 
 - Now open the cloned repository in Android Studio and wait for the gradle build to finish and resources to be downloaded as well as indexing of files to be completed. 
@@ -30,4 +30,4 @@ or download https://github.com/thisisadi/VoterZmate this repository.
 
 
 ### **FIGMA UI LINK:**
-https://www.figma.com/file/7UJuayUPSAXzJxtg9ZGW57/crypto-j?node-id=0%3A1
+https://www.figma.com/file/Gj4rMy5L5fSH4t9aeiKPXh/apptitude-VoterZmate
