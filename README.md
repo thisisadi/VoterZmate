@@ -63,6 +63,9 @@ or download https://github.com/thisisadi/project_VoterZmate this repository.
 - Now build the project and run it on an emulator or your own device.
 
 
+### **VIDEO REPRESENTATION OF THE APP:**
+https://drive.google.com/file/d/1-xve6zrIU7J-40I9piKjSJMi849VHBCy/view?usp=sharing
+
 ### **FIGMA UI LINK:**
 https://www.figma.com/file/Gj4rMy5L5fSH4t9aeiKPXh/apptitude-VoterZmate
 
