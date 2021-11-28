@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193378539634",
+    "project_id": "voterzmate",
+    "storage_bucket": "voterzmate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193378539634:android:cd474050684aab4e4d0aeb",
+        "android_client_info": {
+          "package_name": "com.example.voterzmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193378539634-hub27vfb6pi4p47srrpaf79n16l18e9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl63F8-Rgr1bbOoLJgNGXfDW3I11ng7QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193378539634-hub27vfb6pi4p47srrpaf79n16l18e9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
