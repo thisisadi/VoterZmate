@@ -73,4 +73,4 @@ https://www.figma.com/file/Gj4rMy5L5fSH4t9aeiKPXh/VoterZmate?node-id=0%3A1
 https://www.figma.com/proto/Gj4rMy5L5fSH4t9aeiKPXh/VoterZmate?node-id=99%3A539&scaling=scale-down&page-id=0%3A1&starting-point-node-id=99%3A539
 
 ### **CANVA PRESENTATION:**
-https://www.canva.com/design/DAEw274N06w/nq6p5IeqRqCpc9b6zgJnMg/view?utm_content=DAEw274N06w&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+https://www.canva.com/design/DAEw274N06w/nq6p5IeqRqCpc9b6zgJnMg/view?utm_content=DAEw274N06w&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
